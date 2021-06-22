@@ -10,7 +10,7 @@
 /build
 
 # drafts
-.psd
+*.psd
 
 # misc
 .DS_Store
